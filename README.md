@@ -1,16 +1,16 @@
 # Road_Accident_Analysis_Excel
-# OBJECTIVE:
+# Objective:
 ### To build a dashboard in order to get insights on the causalities happened in the year 2021 and 2022.
-# DATASET USED:
+# Dataset Used:
 ### We utilized the Road Accident Data.xlsx dataset for our analysis.
 # STEPS INVOLVED:
 ### 1)	Data cleaning
 ### 2)	Data processing by adding additional column
 ### 3)	Data Analysis by Pivots and Excel Functions
 ### 4)	Data Visualization to create charts and custom sheets to show the insights
-# TOOL USED:
+# Tool Used:
 ### MS Excel was employed as the primary tool for data analysis and visualization.
-# PREVIEW OF EXCEL DASHBOARD:
+# PREVIEW of Project:
 ![image](https://github.com/Sahoo-Priyanka/Road_Accident_Analysis_Excel/assets/146854318/d7187159-a260-4feb-bdbb-38c0e10c01c4)
 
 # Analysis and Insights:
