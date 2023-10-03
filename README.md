@@ -3,7 +3,7 @@
 ### To build a dashboard in order to get insights on the causalities happened in the year 2021 and 2022.
 # Dataset Used:
 ### We utilized the Road Accident Data.xlsx dataset for our analysis.
-# STEPS INVOLVED:
+# Steps Involved:
 ### 1)	Data cleaning
 ### 2)	Data processing by adding additional column
 ### 3)	Data Analysis by Pivots and Excel Functions
