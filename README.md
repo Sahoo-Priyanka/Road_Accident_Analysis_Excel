@@ -16,7 +16,7 @@ MS Excel was employed as the primary tool for data analysis and visualization.
 # Analysis and Insights:
 1.	A total of 417,883 casualties were recorded, including 7,135 fatal cases and 59,312 serious cases.
 2.	In the years 2021 and 2022, there were 222,146 and 195,737 total casualties, respectively. Analyzing trends between these two years provides valuable insights for targeted interventions.
-3.	: Car accidents accounted for the highest number of casualties, contributing to approximately 79.8% of the total.
+3.	Car accidents accounted for the highest number of casualties, contributing to approximately 79.8% of the total.
 4.	Casualties were more prevalent in urban areas compared to rural areas.
 5.	The majority of casualties occurred during daylight hours rather than at night.
 6.	Identifying road types and surfaces associated with the highest casualties can assist authorities in prioritizing safety measures and road maintenance efforts effectively.
